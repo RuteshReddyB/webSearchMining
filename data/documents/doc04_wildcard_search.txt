@@ -1,0 +1,1 @@
+Wildcard queries allow matching patterns like comp* or *tion. A k-gram index or permuterm index is commonly used to support efficient wildcard search in information retrieval engines.

@@ -1,0 +1,1 @@
+Search engines crawl the web, index pages, and compute ranking scores. Google, Bing, and DuckDuckGo process millions of queries daily using sophisticated computer networks.

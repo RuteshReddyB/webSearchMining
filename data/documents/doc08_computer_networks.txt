@@ -1,0 +1,1 @@
+A network consists of connected nodes communicating over protocols. Computer network security protects data against unauthorized access and cyber attacks. Don't leave open ports without firewalls.

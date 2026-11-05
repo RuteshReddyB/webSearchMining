@@ -1,0 +1,1 @@
+Boolean retrieval models evaluate expressions with AND, OR, and NOT operators. Shunting-yard algorithms parse infix queries to postfix notation for linear evaluation with postings lists.
